@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- ⚡️ Bruno Fernandes, almost 30
+- 💻 Software Engineer, currently working as a Lead Engineer at MobieTrain
+- ⚪️ Self-proclaimed minimalist
+- 🐶 Owner of a dog and two cats
+
 <!--
 **cyck/cyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
