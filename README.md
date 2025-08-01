@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡️ Bruno Fernandes, 30
-- 💻 Software Engineer, currently working as a Lead Engineer at MobieTrain
+- 💻 Software Engineer
 - ⚪️ Self-proclaimed minimalist
 - 🐶 Owner of a dog and a cat
 
