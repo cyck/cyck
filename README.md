@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡️ Bruno Fernandes, 30
+- ⚡️ Bruno Fernandes, 31
 - 💻 Software Engineer
 - ⚪️ Self-proclaimed minimalist
 - 🐶 Owner of a dog and a cat
